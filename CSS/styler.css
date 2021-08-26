@@ -38,6 +38,7 @@
 
   a:hover, a:active {
     background-color: #C93D1B;
+    font-size: 115%;
   }
 
   hr {
